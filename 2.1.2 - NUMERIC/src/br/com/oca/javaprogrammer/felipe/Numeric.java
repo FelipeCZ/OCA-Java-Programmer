@@ -8,6 +8,8 @@ public class Numeric {
 		if(a==b){
 			System.out.println("a and b are equal!!!");
 		}
+		if(100!=0100){
+			System.out.println("Adding an extra zero to the left changes the integer value");
+		}
 	}
-
 }
