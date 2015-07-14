@@ -10,6 +10,7 @@ public class Numeric {
 		}
 		if(100!=0100){
 			System.out.println("Adding an extra zero to the left changes the integer value");
+			System.out.println(100+" is different than "+0100 + " (0100)");
 		}
 	}
 }
