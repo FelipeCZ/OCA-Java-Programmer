@@ -1,6 +1,6 @@
 
 public class EJavaD {
-	/**This wont compile*/
+	/*This wont compile*/
 //	static void public main(String args[]) {
 //		System.out.println(args[0] + " " + args[1]);
 //	}
